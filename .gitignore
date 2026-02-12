@@ -1,0 +1,11 @@
+# Ignore temp files
+*.bak
+*.tmp
+*.log
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Ignore older versions if desired (optional, keeping for now)
+# Demo Tracker Tool V*.html
+# !Demo Tracker Tool V2.12.html
